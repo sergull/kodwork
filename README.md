@@ -19,11 +19,12 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 
 ## API
 
-```API Linki: https://www.themuse.com/developers/api/v2
+```
+https://www.themuse.com/developers/api/v2
 ```
 
 ### Screenshots of the app
-(https://github.com/sergull/kodwork/assets/74403964/bc52a2ce-084c-464b-97d6-2b887000b188)
+[Veri Çekme Ekranı](https://github.com/sergull/kodwork/assets/74403964/bc52a2ce-084c-464b-97d6-2b887000b188)
 (https://github.com/sergull/kodwork/assets/74403964/976eaa8b-5418-472f-8536-fcc5173e53d5)
 (https://github.com/sergull/kodwork/assets/74403964/acb415c4-74be-41bf-8090-355880473b4b)
 (https://github.com/sergull/kodwork/assets/74403964/0faad9c4-04ed-40c3-a72e-fd16680d390c)
